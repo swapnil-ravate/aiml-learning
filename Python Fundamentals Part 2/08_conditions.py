@@ -1,5 +1,23 @@
 # if  elif  else
 '''
+8. Conditional Statements (if-else)
+----------------------------------
+
+Purpose:
+Used for decision making.
+
+Syntax:
+
+if condition:
+    statement
+elif condition:
+    statement
+else:
+    statement
+'''
+#-------------
+
+'''
 age = int(input("Enter the Value : "))
 
 if age >= 18:

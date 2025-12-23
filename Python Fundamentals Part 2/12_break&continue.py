@@ -1,16 +1,28 @@
-# break = terminate loop
+'''
+12. break Statement
+------------------
+Used to terminate the loop immediately.
 
-# i = 1
+#Example -
 
-# while (i <= 10):
-#     if(i % 6 == 0):
-#         break
-#     print(i)
-#     i += 1
-# print("Outside loop now...")
+i = 1
+
+while (i <= 10):
+    if(i % 6 == 0):
+        break
+    print(i)
+    i += 1
+print("Outside loop now...")
+
+'''
 
 
-# continue = to skip corrent iteration
+
+'''
+12. continue Statement
+---------------------
+Used to skip the current iteration.
+'''
 
 i = 1
 

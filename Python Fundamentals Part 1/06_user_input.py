@@ -1,3 +1,14 @@
+
+'''
+6. Input and Output
+------------------
+Output:
+print("Hello")
+
+Input:
+input() always returns a string
+'''
+
 # a = input("Enter your Name :")
 # print("Welcome",a)
 
